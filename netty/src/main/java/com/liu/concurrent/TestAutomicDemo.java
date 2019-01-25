@@ -38,6 +38,7 @@ public class TestAutomicDemo {
 	}
 }
 
+
 class AtomicDemo implements Runnable{
 
 	private  AtomicInteger serailNumber = new AtomicInteger();
